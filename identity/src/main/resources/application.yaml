@@ -3,7 +3,3 @@ spring:
     active: dev  # Mặc định chạy profile "dev"
   jpa:
     show-sql: true
-
-server:
-  servlet:
-    context-path: /api
